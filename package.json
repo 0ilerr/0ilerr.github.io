@@ -1,8 +1,8 @@
 {
-  "name": "0ilerr-portfolio",
+  "name": "vivek9patel-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://0ilerr.github.io/",
+  "homepage": "https://vivek9patel.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
